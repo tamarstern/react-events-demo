@@ -1,7 +1,6 @@
 import React from 'react';
 
 
-
 class App extends React.Component {
    
    constructor() {
@@ -30,6 +29,18 @@ class App extends React.Component {
             },
             {
                "name":"Alon"
+            },
+            {
+               "name":"Amir"
+            }, 
+            {
+               "name":"Yoav"
+            },
+            {
+               "name":"Jonathan"
+            },
+            {
+               "name":"Michael"
             }
          ]
         });
@@ -44,7 +55,13 @@ class App extends React.Component {
             },
             {
                "name":"Liron"
-            }
+            },
+            {
+               "name":"Michal"
+            },
+            {
+               "name":"Ella"
+            },
          ]
         });
       }
